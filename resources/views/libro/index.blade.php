@@ -12,9 +12,6 @@
     </div>
     @endif
 
-    
-
-
 
 <a href="{{ url('libro/create') }}" class="btn btn-success">Registrar nuevo Libro </a>
 <table class="table table-light">
